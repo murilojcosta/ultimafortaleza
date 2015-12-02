@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2015/11/23 23:17:43.000.866,=C:\Users\Murilo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2015/11/23 23:18:20.000.785,C:\Users\Murilo\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Projetos\UltimaFortaleza\UFrmPrincipal.fmx</Transaction>
-    <Transaction>2015/11/23 23:18:20.000.785,C:\Users\Murilo\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\UltimaFortaleza\UFrmPrincipal.pas</Transaction>
     <Transaction>2015/11/23 23:18:27.000.381,C:\Users\Murilo\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\UltimaFortaleza\UltimaFortaleza.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5" Android="0434494919"/>
-	</ActiveMobileDevice>  <BT_BuildType>AppStore</BT_BuildType>
+	</ActiveMobileDevice>
+	<BT_BuildType>AppStore</BT_BuildType>
 </BorlandProject>
